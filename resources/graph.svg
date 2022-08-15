@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="251 204.552 618.4077 426.4144" width="618.4077" height="426.4144">
+  <defs/>
+  <g id="Canvas_1" fill="none" stroke="none" stroke-opacity="1" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="251" y="204.552" width="618.4077" height="426.4144"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <circle cx="520.6202" cy="274.21913" r="37.1494636474477" fill="#33a333"/>
+        <circle cx="520.6202" cy="274.21913" r="37.1494636474477" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(495.90066 255.21913)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="19.918741" y="15">0</tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x=".7156162" y="34">start</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <circle cx="727.555" cy="592.817" r="37.1494636474477" fill="#33a333"/>
+        <circle cx="727.555" cy="592.817" r="37.1494636474477" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(702.83545 573.817)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="19.918741" y="15">5</tspan>
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="10.317179" y="34">end</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <circle cx="529.1494" cy="459.1494" r="37.1494636474477" fill="#33a333"/>
+        <circle cx="529.1494" cy="459.1494" r="37.1494636474477" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(504.4299 449.6494)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="19.918741" y="15">2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <circle cx="289.1494" cy="357.35506" r="37.1494636474477" fill="#33a333"/>
+        <circle cx="289.1494" cy="357.35506" r="37.1494636474477" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(264.42988 347.85506)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="19.918741" y="15">1</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <circle cx="760.091" cy="367.94994" r="37.1494636474477" fill="#33a333"/>
+        <circle cx="760.091" cy="367.94994" r="37.1494636474477" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(735.3714 358.44994)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="19.918741" y="15">3</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <circle cx="336.1494" cy="559.9838" r="37.1494636474478" fill="#33a333"/>
+        <circle cx="336.1494" cy="559.9838" r="37.1494636474478" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <text transform="translate(311.42988 550.4838)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="19.918741" y="15">4</tspan>
+        </text>
+      </g>
+      <g id="Line_9">
+        <line x1="484.70787" y1="287.11754" x2="325.0617" y2="344.45666" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_10">
+        <line x1="556.15426" y1="288.12746" x2="724.5569" y2="354.0416" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_11">
+        <line x1="522.3778" y1="312.3283" x2="527.39176" y2="421.04024" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_12">
+        <line x1="564.6413" y1="445.13356" x2="724.5991" y2="381.9658" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_13">
+        <line x1="560.7943" y1="480.46886" x2="695.91006" y2="571.49754" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_14">
+        <line x1="495.32766" y1="476.81984" x2="369.97115" y2="542.31334" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_15">
+        <line x1="327.5283" y1="522.816" x2="297.77053" y2="394.52286" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Line_16">
+        <line x1="754.6277" y1="405.70845" x2="733.0182" y2="555.0585" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="Graphic_17">
+        <rect x="385.75357" y="302.914" width="29.203125" height="29" fill="white"/>
+        <text transform="translate(390.75357 307.914)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <rect x="296.7151" y="438.42357" width="29.203125" height="29" fill="white"/>
+        <text transform="translate(301.7151 443.42357)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">11</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <rect x="428.132" y="489.79805" width="29.203125" height="29" fill="white"/>
+        <text transform="translate(433.132 494.79805)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">11</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <rect x="510.28516" y="352.2261" width="29.203125" height="29" fill="white"/>
+        <text transform="translate(515.28516 357.2261)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">12</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <rect x="624.3108" y="304.14058" width="19.601562" height="29" fill="white"/>
+        <text transform="translate(629.3108 309.14058)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_22">
+        <rect x="638.97734" y="397.4077" width="19.601562" height="29" fill="white"/>
+        <text transform="translate(643.97734 402.4077)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">6</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <rect x="608.6522" y="504.814" width="19.601562" height="29" fill="white"/>
+        <text transform="translate(613.6522 509.814)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">9</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <rect x="728.2813" y="472.3808" width="29.203125" height="29" fill="white"/>
+        <text transform="translate(733.2813 477.3808)" fill="black">
+          <tspan font-family="Roboto Mono for Powerline" font-size="16" fill="black" x="0" y="15">14</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <text transform="translate(511.22955 211.31087)" fill="#fd4d41">
+          <tspan font-family="Roboto Mono for Powerline" font-style="italic" font-weight="bold" font-size="16" fill="#fd4d41" x="0" y="15">10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <text transform="translate(755.3956 305.04167)" fill="#fd4d41">
+          <tspan font-family="Roboto Mono for Powerline" font-style="italic" font-weight="bold" font-size="16" fill="#fd4d41" x="0" y="15">5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(776.6611 555.72527)" fill="#fd4d41">
+          <tspan font-family="Roboto Mono for Powerline" font-style="italic" font-weight="bold" font-size="16" fill="#fd4d41" x="0" y="15">0</tspan>
+        </text>
+      </g>
+      <g id="Graphic_29">
+        <text transform="translate(524.4541 503.0577)" fill="#fd4d41">
+          <tspan font-family="Roboto Mono for Powerline" font-style="italic" font-weight="bold" font-size="16" fill="#fd4d41" x="0" y="15">5</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(326.75878 604.20754)" fill="#fd4d41">
+          <tspan font-family="Roboto Mono for Powerline" font-style="italic" font-weight="bold" font-size="16" fill="#fd4d41" x="0" y="15">10</tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(279.75878 294.4468)" fill="#fd4d41">
+          <tspan font-family="Roboto Mono for Powerline" font-style="italic" font-weight="bold" font-size="16" fill="#fd4d41" x="0" y="15">15</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
